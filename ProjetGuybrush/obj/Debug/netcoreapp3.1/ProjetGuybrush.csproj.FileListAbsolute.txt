@@ -1,0 +1,13 @@
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\bin\Debug\netcoreapp3.1\ProjetGuybrush.exe
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\bin\Debug\netcoreapp3.1\ProjetGuybrush.deps.json
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\bin\Debug\netcoreapp3.1\ProjetGuybrush.runtimeconfig.json
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\bin\Debug\netcoreapp3.1\ProjetGuybrush.runtimeconfig.dev.json
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\bin\Debug\netcoreapp3.1\ProjetGuybrush.dll
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\bin\Debug\netcoreapp3.1\ProjetGuybrush.pdb
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\obj\Debug\netcoreapp3.1\ProjetGuybrush.csproj.AssemblyReference.cache
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\obj\Debug\netcoreapp3.1\ProjetGuybrush.AssemblyInfoInputs.cache
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\obj\Debug\netcoreapp3.1\ProjetGuybrush.AssemblyInfo.cs
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\obj\Debug\netcoreapp3.1\ProjetGuybrush.csproj.CoreCompileInputs.cache
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\obj\Debug\netcoreapp3.1\ProjetGuybrush.dll
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\obj\Debug\netcoreapp3.1\ProjetGuybrush.pdb
+C:\Users\depar\OneDrive\Bureau\IUT\Semestre 2\Conception Objet\Project\ProjetGuybrush\obj\Debug\netcoreapp3.1\ProjetGuybrush.genruntimeconfig.cache
